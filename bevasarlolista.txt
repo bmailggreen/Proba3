@@ -6,3 +6,5 @@ A leendo bevasarlolistam:
 4. Chips
 5. Fogkrem
 6. Toalettpapir
+7. Sor
+8. Papirzsepi
