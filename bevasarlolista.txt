@@ -1,4 +1,4 @@
-A leendo bevasarlolistam:
+ï»¿A leendo bevasarlolistam:
 
 1. Tej
 2. Kenyer
@@ -8,5 +8,8 @@ A leendo bevasarlolistam:
 6. Toalettpapir
 7. Sor
 8. Papirzsepi
-9. újság
-10. Auto
+s
+9. Kalacs
+10. Alma
+
+
