@@ -1,4 +1,4 @@
-A leendo bevasarlolistam:
+﻿A leendo bevasarlolistam:
 
 1. Tej
 2. Kenyer
@@ -10,3 +10,4 @@ A leendo bevasarlolistam:
 8. Papirzsepi
 9. Kalacs
 10. Alma
+
