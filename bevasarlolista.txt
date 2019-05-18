@@ -4,3 +4,5 @@ A leendo bevasarlolistam:
 2. Kenyer
 3. Viz
 4. Kalács
+5. Egyéb
+6. Minden más
