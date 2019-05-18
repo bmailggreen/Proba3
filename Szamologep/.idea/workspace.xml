@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12c86c06-24c7-4f2c-a787-ac0afefaadbe" name="Default Changelist" comment="">
-<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-=======
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
       <change beforePath="$PROJECT_DIR$/src/com/company/Szamologep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Szamologep.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,13 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Szamologep.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="85">
-              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-=======
             <state relative-caret-position="102">
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
             </state>
           </provider>
         </entry>
@@ -66,15 +58,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="12" />
-=======
-    <option name="x" value="11" />
->>>>>>> 381fd95069213625ea0596073f2fbe18b102d368
     <option name="y" value="35" />
     <option name="width" value="1380" />
-    <option name="height" value="789" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -82,10 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="PackagesPane" />
-=======
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,21 +99,14 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
-      <pane id="PackagesPane" />
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-<<<<<<< HEAD
-=======
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,27 +151,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3011727" />
-=======
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-<<<<<<< HEAD
-=======
       <window_info anchor="bottom" id="Messages" />
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
@@ -224,13 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Szamologep.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="85">
-          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-=======
         <state relative-caret-position="102">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
->>>>>>> fd1e9dbd3dfb11ea598ad44250b33d5763553634
         </state>
       </provider>
     </entry>
