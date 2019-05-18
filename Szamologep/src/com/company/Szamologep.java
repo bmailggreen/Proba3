@@ -6,5 +6,5 @@ public class Szamologep {
         return a + b;
     }
 
-    public static double hatvanyozas (int a, int b) {return a/b;} // ezt a reszt a hatso pengek irtak :)
+    public static double osztas (int a, int b) {return a/b;} // ezt a reszt a hatso pengek irtak :)
 }
