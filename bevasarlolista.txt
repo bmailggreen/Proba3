@@ -6,3 +6,9 @@ A leendo bevasarlolistam:
 4. Kalács
 5. Egyéb
 6. Minden más
+7. Chips
+8. Fogkrem
+9. Toalettpapir
+10. Sor
+11. Papirzsepi
+12. Újság
