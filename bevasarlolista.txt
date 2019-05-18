@@ -12,3 +12,4 @@ A leendo bevasarlolistam:
 10. Sor
 11. Papirzsepi
 12. Újság
+13. Auto
