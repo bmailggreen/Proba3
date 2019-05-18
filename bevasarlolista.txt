@@ -8,5 +8,5 @@ A leendo bevasarlolistam:
 6. Toalettpapir
 7. Sor
 8. Papirzsepi
-9. Újság
-
+9. Kalacs
+10. Alma
